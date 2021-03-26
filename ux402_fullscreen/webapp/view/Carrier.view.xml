@@ -5,7 +5,7 @@
 		<content>
 			<Table items="{/CarrierCollection}">
 				<columns>
-					<Column minScreenWidth="Tablet" demandPopin="true">
+					<Column minScreenWidth="Tablet">
 						<Text text="{i18n>columnId}"/>
 					</Column>
 					<Column minScreenWidth="Tablet" demandPopin="true">
